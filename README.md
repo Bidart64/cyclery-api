@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/bicycle-auction-backend.git
+git clone git@github.com:Bidart64/cyclery-api.git
 ```
 
 2. Change directory
